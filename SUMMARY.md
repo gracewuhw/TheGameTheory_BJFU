@@ -1,0 +1,23 @@
+# Summary
+
+* [简介](README.md)
+* [第0章](chapter0/README.md)
+    * [导论](chapter0/section1.md)
+* [第1章](chapter1/README.md)
+    * [博弈论基本概念](chapter1/section1.md)
+* [第2章](chapter2/README.md)
+    * [完全信息静态博弈](chapter2/section1.md)
+* [第3章](chapter3/README.md)
+    * [完全信息动态博弈](chapter3/section1.md)
+* [第4章](chapter4/README.md)
+    * [不完全信息博弈](chapter4/section1.md)
+* [第5章](chapter5/README.md)
+    * [信息经济学引论](chapter5/section1.md)
+* [第6章](chapter6/README.md)
+    * [逆向选择与信号传递](chapter6/section1.md)
+* [第7章](chapter7/README.md)
+    * [道德风险与委托代理理论](chapter7/section1.md)
+* [第8章](chapter8/README.md)
+    * [信息搜寻](chapter8/section1.md)
+* [结束](end/README.md)
+
