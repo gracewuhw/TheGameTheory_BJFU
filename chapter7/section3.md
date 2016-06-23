@@ -36,7 +36,7 @@
 
 ##激励机制的框架
 
-![激励机制的框架] (Framework.png)
+![](https://github.com/nevertiree/TheGameTheory/blob/master/chapter7/Framework.png)
 
 ##激励机制的简单模型:单个雇主与雇员
 
