@@ -91,12 +91,12 @@
 	</tr>	
 	<tr>
 		<td>完全信息</td>
-		<td>**完全信息静态博弈 Nash均衡**</td>
-		<td>**完全信息动态博弈 子博弈精炼Nash均衡**</td>
+		<td>完全信息静态博弈 Nash均衡</td>
+		<td>完全信息动态博弈 子博弈精炼Nash均衡</td>
 	</tr>	
 	<tr>
 		<td>不完全信息</td>
-		<td>**不完全信息静态博弈** **Bayes-Nash均衡**</td>
-		<td>**不完全信息动态博弈 精炼Bayes-Nash均衡**</td>
+		<td>不完全信息静态博弈 Bayes-Nash均衡</td>
+		<td>不完全信息动态博弈 精炼Bayes-Nash均衡</td>
 	</tr>	
 </table>
