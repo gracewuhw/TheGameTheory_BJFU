@@ -63,7 +63,7 @@
  
  ###2.4.5 划线法
 
-1.过程1
+**1.过程1**
 
 <table>
 	<tr>
@@ -87,33 +87,62 @@
 		<td>0.3</td>
 		<td>0.1</td>
 		<td>2.0</td>		
-	</tr>>
+	</tr>
 </table>
 
-2.过程2
-3.过程3
+**2.过程2**
+
+<table>
+	<tr>
+		<td colspan="2" rowspan="2" ></td>
+		<td colspan="2">参与者B</td>
+	</tr>
+	<tr>
+		<td>L</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td rowspan="2">参与者A</td>
+		<td>U</td>
+		<td>1.0</td>
+		<td>1.2</td>
+	</tr>
+	<tr>
+		<td>D</td>
+		<td>0.3</td>
+		<td>0.1</td>		
+	</tr>
+</table>
+
+**3.过程3**
+
+<table>
+	<tr>
+		<td colspan="2" rowspan="2" ></td>
+		<td colspan="2">参与者B</td>
+	</tr>
+	<tr>
+		<td>L</td>
+		<td>M</td>
+	</tr>
+	<tr>
+		<td rowspan="2">参与者A</td>
+		<td>U</td>
+		<td>1.0</td>
+		<td>1.2</td>
+	</tr>
+</table>
 
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+**4.最后选择M U**
 
 ---
 
-### 生活中的“智猪博弈”
+###2.4.6 问题
 
-* 搭便车
+均衡结果是否与劣战略的**剔除顺序**有关？
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
+>如果每次剔除的是**严格劣战略**，均衡结与剔除的顺序无关；
+>
+>如果剔除的是**弱劣战略**，均衡结果可能和剔除结果有关。
 
