@@ -9,27 +9,21 @@
 		<td colspan="2" rowspan="2" ></td>
 		<td colspan="2">囚徒B</td>
 	</tr>
-
 	<tr>
 		<td>坦白</td>
 		<td>抵赖</td>
 	</tr>
-
 	<tr>
 		<td rowspan="2">囚徒A</td>
 		<td>坦白</td>
 		<td>-6,-6</td>
 		<td>0,-8</td>
 	</tr>
-
-	
-
 	<tr>
 		<td>抵赖</td>
 		<td>-8,0</td>
 		<td>-1,-1</td>	
 	</tr>
-
 </table>
 
 
